@@ -130,6 +130,17 @@
 		(layer "Dwgs.User")
 		(uuid "9d72c25a-410f-4fe8-ac73-6b63d49547ce")
 	)
+	(fp_rect
+		(start -0.06 -31.82)
+		(end 17.27 0.07)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4af8aed5-8269-4791-9b44-46ee94b8a94a")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 8.96 -16.25 0)
 		(layer "F.Fab")
